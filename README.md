@@ -18,6 +18,7 @@
 * ⚙️ Focused on frontend, APIs, and scalable system design
 * 🧩 Building multi-component systems (UI + DB + backend)
 * 🚀 Actively developing real-world applications and experimenting with architectures
+* Moduler applications
 
 ---
 
@@ -26,32 +27,31 @@
 ### 🖥️ Languages
 
 * Python (Primary)
-* JavaScript
-* Java
-* C
+* JavaScript (primary)
 * HTML / CSS
 
 ### ⚙️ Backend & Systems
 
 * FastAPI
 * REST APIs
-* WebSockets (learning & implementing)
 * PostgreSQL / MongoDB
 * System design & modular backend architecture
+* WebSockets (learning & implementing)
 
 ### 📱 Frontend / UI
 
-* React Native (learning & building apps)
+* React.js
+* NEXT.JS
+* Electron.js
+* React Native
 * Basic Web UI (HTML, CSS, JS)
 
 ---
 
 ## 🧩 Key Development Areas
 
-* 🔥 Backend systems & API design
-* 🏗️ Multi-service architecture (UI + DB + backend separation)
-* 📡 Real-time systems (chat, updates, sync)
-* 🧠 AI/ML experimentation (early-stage learning projects)
+* Backend systems & API design
+* Multi-service architecture (UI + DB + backend separation)
 
 ---
 
@@ -59,36 +59,30 @@
 
 ### 🧠 MEZMER Ecosystem
 
-* UI (`MEZMER-UI`)
+* UI (`MEZMER-UI`)  ( Under development)
 * Database layer (`MEZMER-DB`, `mezmerdb`)
-* System-level architecture experiments
 
 ### 🍔 Restaurant System
 
-* `pritom_restorent_food_lazis`
-* `primery_admin_dashboard`
+* `Lazis` (`For Customers`)
+* `Primary Admin dashboard`
+* `Vendor Admin dashboard`
 * `BACKEND_SERVER`
 * Full-stack architecture (user + admin + backend)
-
-### 💬 Realtime / Backend Systems
-
-* `MERN_chat_app`
-* `FastApi_lrn`
-* WebSocket + API experimentation
 
 ---
 
 ## 🧪 Experimental & Learning Projects
 
 * 🎮 `my-rpg-game` — Game logic & system design
-* 🧠 `learning_ai_L1` — AI/ML fundamentals
-* ⚙️ `GO_DB` — Database experimentation
-* 🧾 `CODING---NOTES`, `PYTHON-DSA`, `DSA_JAVASCRIPT_LRN` — Core fundamentals
+* 🧠 `learning_ai` — AI/ML fundamentals
+* ⚙️ `GO_DB` —  custom made lightwaete Database experimentation
 
 ---
 
 ## 📦 Utility & App Projects
 
+* 🖋️ `CAT SCRATCH` (A NOTES APP)
 * 🔳 `qr_Code_genarator`
 * 🧮 `CALCULATOR`
 * 🖼️ `APP_AVATER`, `AVATERS_IN_KB_SIZE`
